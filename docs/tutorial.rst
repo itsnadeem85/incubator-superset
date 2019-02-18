@@ -10,6 +10,7 @@ so that you get a feel for the end-to-end user experience.
 Connecting to a new database
 ----------------------------
 
+Hello - how are you ?
 We assume you already have a database configured and can connect to it from the 
 instance on which you’re running Superset. If you’re just testing Superset and
 want to explore sample data, you can load some
